@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Country-Finder/static/css/main.6873b7f0.css",
+    "main.js": "/Country-Finder/static/js/main.9f52a6b7.js",
+    "static/js/787.633816a4.chunk.js": "/Country-Finder/static/js/787.633816a4.chunk.js",
+    "static/media/area.svg": "/Country-Finder/static/media/area.477778589b7ad14ebe5d600df113b07e.svg",
+    "static/media/location.svg": "/Country-Finder/static/media/location.8b92a6f19c0da3c0a6672d599c131efb.svg",
+    "static/media/globe.svg": "/Country-Finder/static/media/globe.c8f908c6a03aa0b6589166fbbf946c3e.svg",
+    "static/media/currency.svg": "/Country-Finder/static/media/currency.3bad4ddd20f054d5e491a4d060046557.svg",
+    "static/media/loading.svg": "/Country-Finder/static/media/loading.50f05d8da0b7d95d5619a54a7059afc4.svg",
+    "static/media/car.svg": "/Country-Finder/static/media/car.bf914485d2052e8f8214eea1629195fb.svg",
+    "static/media/language.svg": "/Country-Finder/static/media/language.27ddf6be9b69caadca62be3dee1e2171.svg",
+    "static/media/time.svg": "/Country-Finder/static/media/time.112d013151bc1fda5647d7acba90c6d5.svg",
+    "static/media/capital.svg": "/Country-Finder/static/media/capital.7bc893fe951b3bdb3830a894e66d4c72.svg",
+    "static/media/arrow.svg": "/Country-Finder/static/media/arrow.32cac79fd9364b4a3245a1c86906d6bf.svg",
+    "static/media/population.svg": "/Country-Finder/static/media/population.bcee56a813d9204c8eab0d27e9804f1d.svg",
+    "index.html": "/Country-Finder/index.html",
+    "main.6873b7f0.css.map": "/Country-Finder/static/css/main.6873b7f0.css.map",
+    "main.9f52a6b7.js.map": "/Country-Finder/static/js/main.9f52a6b7.js.map",
+    "787.633816a4.chunk.js.map": "/Country-Finder/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "Country-Finder/static/css/main.6873b7f0.css",
+    "Country-Finder/static/js/main.9f52a6b7.js"
+  ]
+}
